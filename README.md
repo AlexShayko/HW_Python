@@ -1,2 +1,2 @@
 # HW_Python
-These are my homeworks
+These are all my homeworks from the Intro to Python Course
